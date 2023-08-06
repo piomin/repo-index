@@ -56,10 +56,17 @@
 
 ## Kubernetes
 
-- [openshift-cluster-config](https://github.com/piomin/openshift-cluster-config): openshift, argocd, helm, acm, openshift-operators
-- [helm-charts](https://github.com/piomin/helm-charts): 
-- [kubernetes-config-argocd](https://github.com/piomin/kubernetes-config-argocd): 
-- [sample-terraform-kubernetes-argocd](https://github.com/piomin/sample-terraform-kubernetes-argocd): 
-- [sample-argocd-liquibase-kustomize](https://github.com/piomin/sample-argocd-liquibase-kustomize): 
-- [sample-kubernetes-cluster-api-argocd](https://github.com/piomin/sample-kubernetes-cluster-api-argocd):
-- [terraform-local-k8s](https://github.com/piomin/terraform-local-k8s):
+- [openshift-cluster-config](https://github.com/piomin/openshift-cluster-config)⭐: openshift, argocd, helm, acm, openshift-operators
+- [helm-charts](https://github.com/piomin/helm-charts)⭐: helm, kubernetes, spring-boot
+- [kubernetes-config-argocd](https://github.com/piomin/kubernetes-config-argocd): argocd, kubernetes, vcluster, helm, cert-manager
+- [sample-terraform-kubernetes-argocd](https://github.com/piomin/sample-terraform-kubernetes-argocd): terraform, kubernetes, argocd, sealed-secrets, olm, kafka
+- [sample-argocd-liquibase-kustomize](https://github.com/piomin/sample-argocd-liquibase-kustomize): kubernetes, argocd, liquibase, kustomize
+- [sample-kubernetes-cluster-api-argocd](https://github.com/piomin/sample-kubernetes-cluster-api-argocd): argocd, kubernetes, cluster-api
+- [terraform-local-k8s](https://github.com/piomin/terraform-local-k8s): terraform, kubernetes, argocd, vault
+
+## Other Java Apps
+- [sample-microservice-kumuluz](https://github.com/piomin/sample-microservice-kumuluz)⭐: kumuluzee, jee, microprofile, consul
+- [sample-amqp-logging](https://github.com/piomin/sample-amqp-logging)⭐: logback, rabbitmq, spring-amqp, testcontainers 
+- [sample-microservices-protobuf](https://github.com/piomin/sample-microservices-protobuf)⭐: protobuf-java, openfeign, spring-web 
+- [sample-envoy-proxy](https://github.com/piomin/sample-envoy-proxy): envoy-proxy, kubernetes, spring-web
+- [sample-microprofile-microservices](https://github.com/piomin/sample-microprofile-microservices): wildfly, jakartaee, microprofile, opentracing, openapi
