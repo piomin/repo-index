@@ -3,9 +3,14 @@
 ⭐- automatically updated
 ⚠️- not maintained anymore
 
+## Kotlin
+
 - [sample-spring-kotlin-microservice](https://github.com/piomin/sample-spring-kotlin-microservice): spring-boot, kotlin, springdoc
 - [course-spring-microservices](https://github.com/piomin/course-spring-microservices): spring-boot, spring-cloud, spring-cloud-stream, spring-cloud-config, spring-cloud-gateway, kotlin, rabbitmq
 - [sample-spring-data-webflux](https://github.com/piomin/sample-spring-data-webflux): spring-boot, spring-webflux, kotlin, r2dbc, postgres, spring-data-r2dbc
+- [sample-kotlin-ktor-microservices](https://github.com/piomin/sample-kotlin-ktor-microservices)⭐: ktor, kotlin, consul, micrometer, ktor-test
+- [sample-kotlin-playground](https://github.com/piomin/sample-kotlin-playground)⭐: kotlin, kotlin-coroutines
+- [reactive-playground](https://github.com/piomin/reactive-playground)⭐: kotlin, reactor
 
 ## Spring Boot
 
@@ -22,6 +27,14 @@
 - [sample-ignite-jpa](https://github.com/piomin/sample-ignite-jpa)⭐: spring-boot, spring-data-ignite, ignite, mysql
 - [sample-spring-amqp](https://github.com/piomin/sample-spring-amqp)⭐: spring-boot, rabbitmq, jib, kubernetes
 - [sample-spring-boot-saga-eventing](https://github.com/piomin/sample-spring-boot-saga-eventing)⭐: spring-boot, spring-cloud-stream, spring-data-jpa, kafka, H2
+- [sample-spring-microservices-transactions](https://github.com/piomin/sample-spring-microservices-transactions)⭐: spring-boot, spring-data-jpa, postgres, rabbitmq, eureka
+- [sample-spring-blockchain](https://github.com/piomin/sample-spring-blockchain)⭐: spring-boot, web3j, ethereum, blockchain
+- [sample-spring-blockchain-contract](https://github.com/piomin/sample-spring-blockchain-contract)⭐: spring-boot, web3j, ethereum, blockchain, solidity
+- [sample-spring-kafka-microservices](https://github.com/piomin/sample-spring-kafka-microservices)⭐: spring-boot, kafka, spring-kafka, kafka-streams
+- [sample-spring-boot-on-kubernetes](https://github.com/piomin/sample-spring-boot-on-kubernetes)⭐: spring-boot, kubernetes, skaffold, spring-data-mongo, mongodb, okteto
+- [sample-spring-microservices](https://github.com/piomin/sample-spring-microservices)⚠️: spring-boot, spring-cloud, spring-cloud-netflix, ribbon, zuul, eureka, hystrix, zipkin
+- [sample-spring-redis](https://github.com/piomin/sample-spring-redis)⭐: spring-boot, redis, spring-data-redis, lettuce
+- [sample-redis-microservices](https://github.com/piomin/sample-redis-microservices)⭐: spring-boot, redis, spring-data-redis, spring-cloud-config
 
 ## Spring Cloud
 
@@ -31,8 +44,11 @@
 - [sample-spring-cloud-messaging](https://github.com/piomin/sample-spring-cloud-messaging)⭐: spring-boot, spring-cloud, spring-cloud-stream, rabbitmq, eureka, spring-cloud-gateway
 - [sample-spring-cloud-stream](https://github.com/piomin/sample-spring-cloud-stream)⭐: spring-boot, spring-cloud, spring-cloud-stream, rabbitmq, otel
 - [sample-spring-cloud-microservices-future](https://github.com/piomin/sample-spring-cloud-microservices-future)⭐: spring-boot, spring-cloud, consul, spring-cloud-gateway, spring-cloud-loadbalancer
-- [sample-spring-cloud-comm](https://github.com/piomin/sample-spring-cloud-comm)⚠️(Archived): spring-boot, spring-cloud, eureka, zuul, ribbon, hystrix
+- [sample-spring-cloud-comm](https://github.com/piomin/sample-spring-cloud-comm)⚠️: spring-boot, spring-cloud, eureka, zuul, ribbon, hystrix
 - [sample-spring-cloud-stream-kafka](https://github.com/piomin/sample-spring-cloud-stream-kafka)⭐: spring-boot, spring-cloud, spring-cloud-stream, kafka, kafka-streams, H2
+- [sample-spring-microservices-kubernetes](https://github.com/piomin/sample-spring-microservices-kubernetes)⭐: spring-boot, spring-cloud, spring-cloud-kubernetes, spring-cloud-openfeign, skaffold, spring-boot-admin
+- [sample-spring-cloud-zookeeper](https://github.com/piomin/sample-spring-cloud-zookeeper)⭐: spring-boot, spring-cloud, spring-cloud-zookeeper, spring-cloud-openfeign, testcontainers
+- [sample-spring-cloud-gateway](https://github.com/piomin/sample-spring-cloud-gateway)⭐: spring-boot, spring-cloud, spring-cloud-gateway, redis, eureka, spring-security
 
 ## Quarkus
 
@@ -63,6 +79,8 @@
 - [sample-argocd-liquibase-kustomize](https://github.com/piomin/sample-argocd-liquibase-kustomize): kubernetes, argocd, liquibase, kustomize
 - [sample-kubernetes-cluster-api-argocd](https://github.com/piomin/sample-kubernetes-cluster-api-argocd): argocd, kubernetes, cluster-api
 - [terraform-local-k8s](https://github.com/piomin/terraform-local-k8s): terraform, kubernetes, argocd, vault
+- [openshift-quickstart](https://github.com/piomin/openshift-quickstart)⭐: openshift, kubernetes, quarkus, spring-boot, kafka, knative
+- [course-kubernetes-microservices](https://github.com/piomin/course-kubernetes-microservices)⭐: kubernetes, kotlin, spring-boot, micronaut, jib
 
 ## Other Java Apps
 - [sample-microservice-kumuluz](https://github.com/piomin/sample-microservice-kumuluz)⭐: kumuluzee, jee, microprofile, consul
@@ -70,3 +88,5 @@
 - [sample-microservices-protobuf](https://github.com/piomin/sample-microservices-protobuf)⭐: protobuf-java, openfeign, spring-web 
 - [sample-envoy-proxy](https://github.com/piomin/sample-envoy-proxy): envoy-proxy, kubernetes, spring-web
 - [sample-microprofile-microservices](https://github.com/piomin/sample-microprofile-microservices): wildfly, jakartaee, microprofile, opentracing, openapi
+- [sample-serverless-aws-lambda](https://github.com/piomin/sample-serverless-aws-lambda)⭐: aws-lambda, dynamodb, s3, aws-sqs, aws-sns
+- [sample-eclipselink-jpa](https://github.com/piomin/sample-eclipselink-jpa)⭐: spring-boot, oracle, eclipse-link, jpa
