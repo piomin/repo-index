@@ -35,6 +35,9 @@
 - [sample-spring-microservices](https://github.com/piomin/sample-spring-microservices)⚠️: spring-boot, spring-cloud, spring-cloud-netflix, ribbon, zuul, eureka, hystrix, zipkin
 - [sample-spring-redis](https://github.com/piomin/sample-spring-redis)⭐: spring-boot, redis, spring-data-redis, lettuce
 - [sample-redis-microservices](https://github.com/piomin/sample-redis-microservices)⭐: spring-boot, redis, spring-data-redis, spring-cloud-config
+- [sample-jasperreport-boot](https://github.com/piomin/sample-jasperreport-boot)⭐: spring-boot, spring-data-jpa, jasper-reports, H2
+- [sample-nomad-java-services](https://github.com/piomin/sample-nomad-java-services)⭐: spring-boot, consul, nomad
+- [spring-boot-istio](https://github.com/piomin/spring-boot-istio)⭐: spring-boot, library, istio, kubernetes-client
 
 ## Spring Cloud
 
@@ -49,6 +52,10 @@
 - [sample-spring-microservices-kubernetes](https://github.com/piomin/sample-spring-microservices-kubernetes)⭐: spring-boot, spring-cloud, spring-cloud-kubernetes, spring-cloud-openfeign, skaffold, spring-boot-admin
 - [sample-spring-cloud-zookeeper](https://github.com/piomin/sample-spring-cloud-zookeeper)⭐: spring-boot, spring-cloud, spring-cloud-zookeeper, spring-cloud-openfeign, testcontainers
 - [sample-spring-cloud-gateway](https://github.com/piomin/sample-spring-cloud-gateway)⭐: spring-boot, spring-cloud, spring-cloud-gateway, redis, eureka, spring-security
+- [sample-graphql-microservices](https://github.com/piomin/sample-graphql-microservices): spring-boot, spring-cloud, eureka, spring-cloud-openfeign, apollo-client, graphql-java
+- [spring-cloud-kubernetes-discovery-ext](https://github.com/piomin/spring-cloud-kubernetes-discovery-ext)⭐: spring-boot, spring-cloud, spring-cloud-kubernetes, library, kubernetes
+- [spring-cloud-schema-registry-client-apicurio](https://github.com/piomin/spring-cloud-schema-registry-client-apicurio)⭐: spring-boot, spring-cloud, spring-cloud-schema-registry, spring-messaging, library, apicurio, testcontainers
+- [sample-spring-oauth2-microservices](https://github.com/piomin/sample-spring-oauth2-microservices): spring-boot, spring-cloud, spring-security, eureka, zuul, spring-security-oauth2
 
 ## Quarkus
 
@@ -81,6 +88,7 @@
 - [terraform-local-k8s](https://github.com/piomin/terraform-local-k8s): terraform, kubernetes, argocd, vault
 - [openshift-quickstart](https://github.com/piomin/openshift-quickstart)⭐: openshift, kubernetes, quarkus, spring-boot, kafka, knative
 - [course-kubernetes-microservices](https://github.com/piomin/course-kubernetes-microservices)⭐: kubernetes, kotlin, spring-boot, micronaut, jib
+- [kubernetes-workshop](https://github.com/piomin/kubernetes-workshop)⭐: kubernetes, istio, spring-boot, skaffold, jib
 
 ## Other Java Apps
 - [sample-microservice-kumuluz](https://github.com/piomin/sample-microservice-kumuluz)⭐: kumuluzee, jee, microprofile, consul
@@ -90,3 +98,16 @@
 - [sample-microprofile-microservices](https://github.com/piomin/sample-microprofile-microservices): wildfly, jakartaee, microprofile, opentracing, openapi
 - [sample-serverless-aws-lambda](https://github.com/piomin/sample-serverless-aws-lambda)⭐: aws-lambda, dynamodb, s3, aws-sqs, aws-sns
 - [sample-eclipselink-jpa](https://github.com/piomin/sample-eclipselink-jpa)⭐: spring-boot, oracle, eclipse-link, jpa
+- [sample-java-sonar](https://github.com/piomin/sample-java-sonar)⭐: java, sonar-plugin, sonarqube
+- [sample-java-playground](https://github.com/piomin/sample-java-playground)⭐: java, guava, jool, streamex, java-streams
+- [sample-java-new-features](https://github.com/piomin/sample-java-new-features)⭐: java, records
+- [sample-java-kubemq](https://github.com/piomin/sample-java-kubemq)⭐: java, kubemq, kubernetes, skaffold, jib
+- [sample-vertx-microservices](https://github.com/piomin/sample-vertx-microservices): vertx, mongodb, consul
+- [sample-vertx-kafka-messaging](https://github.com/piomin/sample-vertx-kafka-messaging): vertx, kafka
+- [sample-vertx-kubernetes](https://github.com/piomin/sample-vertx-kubernetes): vertx, mongodb, kubernetes
+- [sample-java-concurrency](https://github.com/piomin/sample-java-concurrency)⭐: java-concurrency, virtual-threads, http-server
+
+## Other Languages
+- [web-api-example](https://github.com/piomin/web-api-example): dotnet, asp, swagger, rest-api
+- [sample-react-microfrontend](https://github.com/piomin/sample-react-microfrontend): react, react-redux, redux-saga, axios
+- [sample-gatling-load-tests](https://github.com/piomin/sample-gatling-load-tests): scala, gatling, postgres, spring-web, spring-data-jpa
