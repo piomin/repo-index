@@ -38,6 +38,8 @@
 - [sample-jasperreport-boot](https://github.com/piomin/sample-jasperreport-boot)⭐: spring-boot, spring-data-jpa, jasper-reports, H2
 - [sample-nomad-java-services](https://github.com/piomin/sample-nomad-java-services)⭐: spring-boot, consul, nomad
 - [spring-boot-istio](https://github.com/piomin/spring-boot-istio)⭐: spring-boot, library, istio, kubernetes-client
+- [sample-testing-microservices](https://github.com/piomin/sample-testing-microservices): spring-boot, spring-cloud, pact, gatling, hoverfly
+- [sample-nomad-java-services](https://github.com/piomin/sample-nomad-java-services)⭐: spring-boot, sporing-cloud, consul, spring-cloud-consul, nomad
 
 ## Spring Cloud
 
@@ -56,6 +58,7 @@
 - [spring-cloud-kubernetes-discovery-ext](https://github.com/piomin/spring-cloud-kubernetes-discovery-ext)⭐: spring-boot, spring-cloud, spring-cloud-kubernetes, library, kubernetes
 - [spring-cloud-schema-registry-client-apicurio](https://github.com/piomin/spring-cloud-schema-registry-client-apicurio)⭐: spring-boot, spring-cloud, spring-cloud-schema-registry, spring-messaging, library, apicurio, testcontainers
 - [sample-spring-oauth2-microservices](https://github.com/piomin/sample-spring-oauth2-microservices): spring-boot, spring-cloud, spring-security, eureka, zuul, spring-security-oauth2
+- [sample-spring-cloud-contract-ci](https://github.com/piomin/sample-spring-cloud-contract-ci): spring-boot, spring-cloud, spring-cloud-contract
 
 ## Quarkus
 
