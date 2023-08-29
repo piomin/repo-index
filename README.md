@@ -40,6 +40,8 @@
 - [spring-boot-istio](https://github.com/piomin/spring-boot-istio)⭐: spring-boot, library, istio, kubernetes-client
 - [sample-testing-microservices](https://github.com/piomin/sample-testing-microservices): spring-boot, spring-cloud, pact, gatling, hoverfly
 - [sample-nomad-java-services](https://github.com/piomin/sample-nomad-java-services)⭐: spring-boot, sporing-cloud, consul, spring-cloud-consul, nomad
+- [sample-spring-boot-autoscaler](https://github.com/piomin/sample-spring-boot-autoscaler)⭐: spring-boot, spring-cloud, eureka, spring-boot-actuator
+- [sample-spring-boot-graphql](https://github.com/piomin/sample-spring-boot-graphql)⭐: spring-boot, H2, netflix-dgs, hibernate, spring-graphql
 
 ## Spring Cloud
 
@@ -59,6 +61,10 @@
 - [spring-cloud-schema-registry-client-apicurio](https://github.com/piomin/spring-cloud-schema-registry-client-apicurio)⭐: spring-boot, spring-cloud, spring-cloud-schema-registry, spring-messaging, library, apicurio, testcontainers
 - [sample-spring-oauth2-microservices](https://github.com/piomin/sample-spring-oauth2-microservices): spring-boot, spring-cloud, spring-security, eureka, zuul, spring-security-oauth2
 - [sample-spring-cloud-contract-ci](https://github.com/piomin/sample-spring-cloud-contract-ci): spring-boot, spring-cloud, spring-cloud-contract
+- [sample-spring-cloud-config-bus](https://github.com/piomin/sample-spring-cloud-config-bus)⭐: spring-boot, spring-cloud, spring-cloud-config, rabbitmq
+- [sample-spring-cloud-stream-kafka](https://github.com/piomin/sample-spring-cloud-stream-kafka)⭐: spring-boot, spring-cloud, kafka, kafka-streams, spring-cloud-stream
+- [sample-spring-cloud-security](https://github.com/piomin/sample-spring-cloud-security): spring-boot, spring-cloud, spring-security, vault, oauth2
+- [sample-spring-cloud-pcf](https://github.com/piomin/sample-spring-cloud-pcf)⚠️: spring-boot, spring-cloud, ribbon, eureka, feign, pcf
 
 ## Quarkus
 
