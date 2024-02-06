@@ -65,6 +65,7 @@
 - [sample-spring-cloud-stream-kafka](https://github.com/piomin/sample-spring-cloud-stream-kafka)⭐: spring-boot, spring-cloud, kafka, kafka-streams, spring-cloud-stream
 - [sample-spring-cloud-security](https://github.com/piomin/sample-spring-cloud-security): spring-boot, spring-cloud, spring-security, vault, oauth2
 - [sample-spring-cloud-pcf](https://github.com/piomin/sample-spring-cloud-pcf)⚠️: spring-boot, spring-cloud, ribbon, eureka, feign, pcf
+- [sample-spring-cloud-azure](https://github.com/piomin/sample-spring-cloud-azure)️: spring-boot, spring-cloud, spring-cloud-azure, azure-spring-apps, azure-pipelines, azure-function, cosmosdb
 
 ## Quarkus
 
@@ -95,6 +96,7 @@
 - [sample-argocd-liquibase-kustomize](https://github.com/piomin/sample-argocd-liquibase-kustomize): kubernetes, argocd, liquibase, kustomize
 - [sample-kubernetes-cluster-api-argocd](https://github.com/piomin/sample-kubernetes-cluster-api-argocd): argocd, kubernetes, cluster-api
 - [terraform-local-k8s](https://github.com/piomin/terraform-local-k8s): terraform, kubernetes, argocd, vault
+- [terraform-openshift](https://github.com/piomin/terraform-openshift): terraform, openshift, kubernetes, argocd, vault
 - [openshift-quickstart](https://github.com/piomin/openshift-quickstart)⭐: openshift, kubernetes, quarkus, spring-boot, kafka, knative
 - [course-kubernetes-microservices](https://github.com/piomin/course-kubernetes-microservices)⭐: kubernetes, kotlin, spring-boot, micronaut, jib
 - [kubernetes-workshop](https://github.com/piomin/kubernetes-workshop)⭐: kubernetes, istio, spring-boot, skaffold, jib
