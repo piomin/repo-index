@@ -14,6 +14,7 @@
 
 ## Spring Boot
 
+- [spring-boot-tips](https://github.com/piomin/spring-boot-tips)⭐: spring-boot, spring-web, spring-data, H2
 - [spring-boot-logging](https://github.com/piomin/spring-boot-logging)⭐: spring-boot, logstash, loki
 - [sample-spring-microservices-new](https://github.com/piomin/sample-spring-microservices-new)⭐: spring-boot, spring-cloud-config, spring-cloud-gateway, eureka, otel
 - [sample-spring-microservices-advanced](https://github.com/piomin/sample-spring-microservices-advanced)⭐:  spring-boot, spring-cloud, spring-cloud-gateway, mongodb, eureka
@@ -42,6 +43,7 @@
 - [sample-nomad-java-services](https://github.com/piomin/sample-nomad-java-services)⭐: spring-boot, sporing-cloud, consul, spring-cloud-consul, nomad
 - [sample-spring-boot-autoscaler](https://github.com/piomin/sample-spring-boot-autoscaler)⭐: spring-boot, spring-cloud, eureka, spring-boot-actuator
 - [sample-spring-boot-graphql](https://github.com/piomin/sample-spring-boot-graphql)⭐: spring-boot, H2, netflix-dgs, hibernate, spring-graphql
+- [sample-spring-security-microservices](https://github.com/piomin/sample-spring-security-microservices): spring-boot, oauth2, ssl, kubernetes, cert-manager
 
 ## Spring Cloud
 
@@ -98,6 +100,7 @@
 - [terraform-local-k8s](https://github.com/piomin/terraform-local-k8s): terraform, kubernetes, argocd, vault
 - [terraform-openshift](https://github.com/piomin/terraform-openshift): terraform, openshift, kubernetes, argocd, vault
 - [openshift-quickstart](https://github.com/piomin/openshift-quickstart)⭐: openshift, kubernetes, quarkus, spring-boot, kafka, knative
+- [kubernetes-quickstart](https://github.com/piomin/kubernetes-quickstart)⭐: kubernetes, kafka, spring-boot, skaffold
 - [course-kubernetes-microservices](https://github.com/piomin/course-kubernetes-microservices)⭐: kubernetes, kotlin, spring-boot, micronaut, jib
 - [kubernetes-workshop](https://github.com/piomin/kubernetes-workshop)⭐: kubernetes, istio, spring-boot, skaffold, jib
 
