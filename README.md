@@ -45,6 +45,10 @@
 - [sample-spring-boot-graphql](https://github.com/piomin/sample-spring-boot-graphql)⭐: spring-boot, H2, netflix-dgs, hibernate, spring-graphql
 - [sample-spring-security-microservices](https://github.com/piomin/sample-spring-security-microservices): spring-boot, oauth2, ssl, kubernetes, cert-manager
 
+## AI
+- [spring-ai-showcase](https://github.com/piomin/spring-ai-showcase): spring-boot, spring-ai, openai, H2
+- [spring-ai-apps](https://github.com/piomin/spring-ai-apps): spring-boot, spring-ai, mcp
+- 
 ## Spring Cloud
 
 - [sample-spring-cloud-testing](https://github.com/piomin/sample-spring-cloud-testing): spring-boot, spring-cloud, eureka, mongodb, pact, spring-cloud-gateway, spring-cloud-contract
