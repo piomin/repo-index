@@ -21,6 +21,7 @@
 - [sample-spring-reactive](https://github.com/piomin/sample-spring-reactive)⭐: spring-boot, spring-webflux, mongodb
 - [sample-spring-boot-graalvm](https://github.com/piomin/sample-spring-boot-graalvm)⭐: spring-boot, H2, hoverfly, graalvm, spring-data-jpa
 - [sample-spring-boot-web](https://github.com/piomin/sample-spring-boot-web)⭐: spring-boot, springdoc, loki
+- [sample-spring-modulith](https://github.com/piomin/sample-spring-modulith)⭐: spring-boot, spring-modulith, spring-data, H2
 - [sample-springboot-dekorate-istio](https://github.com/piomin/sample-springboot-dekorate-istio)⭐: spring-boot, kubernetes, jib, dekorate
 - [sample-camel-spring-boot](https://github.com/piomin/sample-camel-spring-boot)⭐: spring-boot, camel, zipkin
 - [sample-spring-jpa-streamer](https://github.com/piomin/sample-spring-jpa-streamer)⭐: spring-boot, spring-data-jpa, jpa-streamer, H2
