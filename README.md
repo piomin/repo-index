@@ -49,7 +49,8 @@
 ## AI
 - [spring-ai-showcase](https://github.com/piomin/spring-ai-showcase): spring-boot, spring-ai, openai, H2
 - [spring-ai-apps](https://github.com/piomin/spring-ai-apps): spring-boot, spring-ai, mcp
-- 
+- [quarkus-ai-showcase](https://github.com/piomin/quarkus-ai-showcase): quarkus, quarkus-langchain4j, openai, H2
+
 ## Spring Cloud
 
 - [sample-spring-cloud-testing](https://github.com/piomin/sample-spring-cloud-testing): spring-boot, spring-cloud, eureka, mongodb, pact, spring-cloud-gateway, spring-cloud-contract
