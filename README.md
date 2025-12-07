@@ -21,6 +21,7 @@
 - [sample-spring-reactive](https://github.com/piomin/sample-spring-reactive)⭐: spring-boot, spring-webflux, mongodb
 - [sample-spring-boot-graalvm](https://github.com/piomin/sample-spring-boot-graalvm)⭐: spring-boot, H2, hoverfly, graalvm, spring-data-jpa
 - [sample-spring-boot-web](https://github.com/piomin/sample-spring-boot-web)⭐: spring-boot, springdoc, loki
+- [sample-spring-boot-web](https://github.com/piomin/sample-spring-boot-with-db)⭐: spring-boot, postgres, arconia
 - [sample-spring-modulith](https://github.com/piomin/sample-spring-modulith)⭐: spring-boot, spring-modulith, spring-data, H2
 - [sample-springboot-dekorate-istio](https://github.com/piomin/sample-springboot-dekorate-istio)⭐: spring-boot, kubernetes, jib, dekorate
 - [sample-camel-spring-boot](https://github.com/piomin/sample-camel-spring-boot)⭐: spring-boot, camel, zipkin
@@ -50,6 +51,7 @@
 - [spring-ai-showcase](https://github.com/piomin/spring-ai-showcase): spring-boot, spring-ai, openai, H2
 - [spring-ai-apps](https://github.com/piomin/spring-ai-apps): spring-boot, spring-ai, mcp
 - [quarkus-ai-showcase](https://github.com/piomin/quarkus-ai-showcase): quarkus, quarkus-langchain4j, openai, H2
+- [quarkus-ai-apps](https://github.com/piomin/quarkus-ai-apps): quarkus, quarkus-langchain4j, openai, mcp
 
 ## Spring Cloud
 
@@ -109,6 +111,7 @@
 - [kubernetes-quickstart](https://github.com/piomin/kubernetes-quickstart)⭐: kubernetes, kafka, spring-boot, skaffold
 - [course-kubernetes-microservices](https://github.com/piomin/course-kubernetes-microservices)⭐: kubernetes, kotlin, spring-boot, micronaut, jib
 - [kubernetes-workshop](https://github.com/piomin/kubernetes-workshop)⭐: kubernetes, istio, spring-boot, skaffold, jib
+- [hands-on-java-with-kubernetes](https://github.com/piomin/hands-on-java-with-kubernetes)⭐: kubernetes, java, spring-boot, quarkus, skaffold, jib, jkube, book
 
 ## Other Java Apps
 - [sample-microservice-kumuluz](https://github.com/piomin/sample-microservice-kumuluz)⭐: kumuluzee, jee, microprofile, consul
